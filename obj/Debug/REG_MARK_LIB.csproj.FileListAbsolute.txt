@@ -1,0 +1,6 @@
+C:\Users\fff\Desktop\Подготовка к вср\Сессия 1\REG_MARK_LIB\bin\Debug\REG_MARK_LIB.dll
+C:\Users\fff\Desktop\Подготовка к вср\Сессия 1\REG_MARK_LIB\bin\Debug\REG_MARK_LIB.pdb
+C:\Users\fff\Desktop\Подготовка к вср\Сессия 1\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csproj.AssemblyReference.cache
+C:\Users\fff\Desktop\Подготовка к вср\Сессия 1\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csproj.CoreCompileInputs.cache
+C:\Users\fff\Desktop\Подготовка к вср\Сессия 1\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.dll
+C:\Users\fff\Desktop\Подготовка к вср\Сессия 1\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.pdb
