@@ -1,7 +1,6 @@
 C:\Users\fff\Desktop\Подготовка к вср\Сессия 2\Drivers\bin\Debug\Drivers.exe.config
 C:\Users\fff\Desktop\Подготовка к вср\Сессия 2\Drivers\bin\Debug\Drivers.exe
 C:\Users\fff\Desktop\Подготовка к вср\Сессия 2\Drivers\bin\Debug\Drivers.pdb
-C:\Users\fff\Desktop\Подготовка к вср\Сессия 2\Drivers\obj\Debug\Drivers.csproj.AssemblyReference.cache
 C:\Users\fff\Desktop\Подготовка к вср\Сессия 2\Drivers\obj\Debug\View\Windows\AuthWindow.g.cs
 C:\Users\fff\Desktop\Подготовка к вср\Сессия 2\Drivers\obj\Debug\App.g.cs
 C:\Users\fff\Desktop\Подготовка к вср\Сессия 2\Drivers\obj\Debug\Drivers_MarkupCompile.cache
