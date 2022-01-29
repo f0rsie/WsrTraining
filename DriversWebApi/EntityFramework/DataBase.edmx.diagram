@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="26b12b28fc1b461983b924ed0f0fd30f" Name="Diagram1">
+        <EntityTypeShape EntityType="DriversModel.Address" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.Car" Width="1.5" PointX="9.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.City" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.Data" Width="1.5" PointX="12" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.Driver" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.Fine" Width="1.5" PointX="14.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.JobInfo" Width="1.5" PointX="5.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.PassportInfo" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DriversModel.Person" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DriversModel.FK__Address__CityID__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Person__LifeAddr__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Person__Registra__2C3393D0" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Car__DriverID__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Data__CarID__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Fine__DataID__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Driver__JobInfoI__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Driver__PersonID__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="DriversModel.FK__Person__Passport__2B3F6F97" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
